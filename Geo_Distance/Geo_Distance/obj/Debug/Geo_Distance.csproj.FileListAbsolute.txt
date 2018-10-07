@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\C#\Geometrical Distance\Geo_Distance\Geo_Distance\bin\Debug\Geo_Distance.exe.config
+D:\Visual Studio Projects\C#\Geometrical Distance\Geo_Distance\Geo_Distance\bin\Debug\Geo_Distance.exe
+D:\Visual Studio Projects\C#\Geometrical Distance\Geo_Distance\Geo_Distance\bin\Debug\Geo_Distance.pdb
+D:\Visual Studio Projects\C#\Geometrical Distance\Geo_Distance\Geo_Distance\obj\Debug\Geo_Distance.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\Geometrical Distance\Geo_Distance\Geo_Distance\obj\Debug\Geo_Distance.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\Geometrical Distance\Geo_Distance\Geo_Distance\obj\Debug\Geo_Distance.exe
+D:\Visual Studio Projects\C#\Geometrical Distance\Geo_Distance\Geo_Distance\obj\Debug\Geo_Distance.pdb
