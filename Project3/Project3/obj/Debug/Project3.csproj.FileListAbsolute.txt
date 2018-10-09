@@ -1,0 +1,6 @@
+c:\users\temp.dom201.000\documents\visual studio 2015\Projects\Project3\Project3\bin\Debug\Project3.exe.config
+c:\users\temp.dom201.000\documents\visual studio 2015\Projects\Project3\Project3\bin\Debug\Project3.exe
+c:\users\temp.dom201.000\documents\visual studio 2015\Projects\Project3\Project3\bin\Debug\Project3.pdb
+c:\users\temp.dom201.000\documents\visual studio 2015\Projects\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+c:\users\temp.dom201.000\documents\visual studio 2015\Projects\Project3\Project3\obj\Debug\Project3.exe
+c:\users\temp.dom201.000\documents\visual studio 2015\Projects\Project3\Project3\obj\Debug\Project3.pdb
